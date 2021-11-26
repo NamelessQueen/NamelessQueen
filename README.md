@@ -22,4 +22,4 @@
   
   ##
   
-![Snake animation](https://github.com/NamelessQUeen/NamelessQueen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NamelessQueen/NamelessQueen/commit/050c92d615e288aa8ec0e8966d049939167c210b)
