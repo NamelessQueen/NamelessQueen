@@ -2,7 +2,7 @@
 
 
 - 🌷 I’m currently working on ...
-- 🍓 I’m currently learning javascript
+- 🍓 I’m currently learning Haskell
 - 📫 How to reach me: mscolares7@gmail.com
 - 🌼 Pronouns: ela/dela
 
